@@ -1,0 +1,20 @@
+.logo {
+  width: 25%;
+  height: 25%;
+  /* float: left; */
+}
+.poster {
+  width: 500px;
+  /* size: auto; */
+  display: contents;
+  margin: 0%;
+  margin-top: 10px;
+
+  color: white;
+  object-fit: contain;
+  height: 448px;
+}
+.banner {
+  margin-left: 0px;
+  margin-right: 0px;
+}
